@@ -1,4 +1,4 @@
-<h1 id="title">ReadMe file for "A Unique ReadMe Generator"</h1>
+<h1 id="title">ReadMe file for "A Unique ReadMe Generator"</h1><img src = "https://badgen.net/badge/license/MIT">
 <h3>By User davehyler</h3>
 <!-- Optional Screenshot will show if user places one within the same directory as this readme. -->
 <p><img src = "screenshot.png"></p> 
