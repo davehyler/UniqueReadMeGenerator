@@ -83,7 +83,7 @@ inquirer
 <li><a href="#stack">Stack</a></li>
 <li><a href="#license">License</a></li>
 <li><a href="#description">Description</a></li>
-<li><a href="#instructions">Instructions</a></li>
+<li><a href="#instructions">Installation Instructions</a></li>
 <li><a href="#usage">Usage</a></li>
 <li><a href="#guidelines">Guidelines</a></li>
 <li><a href="#testing">Testing</a></li>
@@ -97,7 +97,7 @@ inquirer
 <p>Badge: <img src = "https://badgen.net/badge/license/${license}"></p>
 <h3 id="description">Description of project:</h3>
 <p>${description}</p>
-<h3 id="instructions">Instructions:</h3>
+<h3 id="instructions">Installation Instructions:</h3>
 <p>${instructions}</p>
 <h3 id="usage">How to use:</h3>
 <p>${usage}</p>
