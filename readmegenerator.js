@@ -70,7 +70,7 @@ inquirer
                             guidelines, 
                             testing
                             }) =>
-`<h1 id="title">ReadMe file for "${title}"</h1><img src = "https://badgen.net/badge/license/${license}">
+`<h1 id="title">ReadMe file for "${title}"</h1><a href = "https://opensource.org/license/${license}"><img src = "https://badgen.net/badge/license/${license}"></a>
 <h3>By User ${username}</h3>
 <!-- Optional Screenshot will show if user places one within the same directory as this readme. -->
 <p><img src = "screenshot.png"></p> 
