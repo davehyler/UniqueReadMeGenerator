@@ -22,7 +22,7 @@
 <h3 id="stack">Stack used:</h3>
 <p>HTML,JavaScript</p>
 <h3 id="license">License: MIT</h3>
-<p>Badge: <img src = "https://badgen.net/badge/license/MIT"></p>
+<p>Badge: <a href = "https://opensource.org/license/mit"><img src = "https://badgen.net/badge/license/MIT"></a></p>
 <h3 id="description">Description of project:</h3>
 <p>This is a simple README.md generator using basic markup and HTML to produce clean, informative, concise documents to post as readme files on GitHub (or other websites capable of reading HTML or markdown language tags)</p>
 <h3 id="instructions">Instructions:</h3>
