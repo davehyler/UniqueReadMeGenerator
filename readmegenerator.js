@@ -94,7 +94,7 @@ inquirer
 <h3 id="stack">Stack used:</h3>
 <p>${stack}</p>
 <h3 id="license">License: ${license}</h3>
-<p>Badge: <img src = "https://badgen.net/badge/license/${license}"></p>
+<p>Badge: <a href = "https://opensource.org/license/${license}"><img src = "https://badgen.net/badge/license/${license}"></a></p>
 <h3 id="description">Description of project:</h3>
 <p>${description}</p>
 <h3 id="instructions">Installation Instructions:</h3>
