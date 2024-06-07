@@ -36,7 +36,7 @@
 </ul>
 <h3>Questions? Contact Me:</h3>
 <ul class="list-group">
-<li class="list-group-item">GitHub username: davehyler</li>
-<li class="list-group-item">Email:  davehyler@github.com (placeholder since this is a publicly accessible and scrapable page)</li>
+<li class="list-group-item" id="username">GitHub username: davehyler</li>
+<li class="list-group-item" id="email">Email:  davehyler@github.com (placeholder since this is a publicly accessible and scrapable page)</li>
 </ul>
 <a href = "https://app.screencastify.com/v3/watch/WyreqWfdYCzqPPtEFKya">Video Tutorial For Those Unable to figure out how to use this</a>
